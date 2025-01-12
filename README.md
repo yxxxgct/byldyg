@@ -1,5 +1,6 @@
 # byldyg
 这是一个新手学习c语言的代码库存
+输入三个整数，按从大到小的顺序输出。
 #include<stdio.h>
 main()
 {
